@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello :rat:
+
+
+I am a Middleware Development Engineer at [@intel](https://github.com/intel) (see my work profile [@adamfidel](https://github.com/adamfidel)).
+
+Personal interests:
+- Fedora Atomic desktops, [Universal Blue](https://universal-blue.org), golang
+
+Professional work:
+- C++, [SYCL](https://www.khronos.org/sycl/), high-performance computing, open ecosystems
 
 <!--
 **ledif/ledif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
