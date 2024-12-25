@@ -6,7 +6,7 @@ I am a Middleware Development Engineer at [@intel](https://github.com/intel) (se
 Personal interests:
 - Fedora Atomic desktops, [Universal Blue](https://universal-blue.org), golang
 
-Professional work:
+Professional interests:
 - C++, [SYCL](https://www.khronos.org/sycl/), high-performance computing, open ecosystems
 
 <!--
