@@ -7,7 +7,7 @@ Personal interests:
 - Fedora Atomic desktops, [Universal Blue](https://github.com/ublue-os), golang
 
 Professional interests:
-- C++, [SYCL](https://www.khronos.org/sycl/), high-performance computing, open ecosystems
+- C++, [SYCL](https://www.khronos.org/sycl/), high-performance computing, parallel algorithms
 
 <!--
 **ledif/ledif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
