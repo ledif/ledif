@@ -1,4 +1,4 @@
-## :rat:
+## 🧙
 
 
 I am a Middleware Development Engineer at [@intel](https://github.com/intel) (see my work profile [@adamfidel](https://github.com/adamfidel)).
