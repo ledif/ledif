@@ -4,7 +4,7 @@
 I am a Middleware Development Engineer at [@intel](https://github.com/intel) (see my work profile [@adamfidel](https://github.com/adamfidel)).
 
 Personal interests:
-- Fedora Atomic desktops, [Universal Blue](https://github.com/ublue-os), golang
+- Fedora Atomic desktops, [Aurora](https://github.com/ublue-os/aurora)/[Universal Blue](https://github.com/ublue-os), golang
 
 Professional interests:
 - C++, [SYCL](https://www.khronos.org/sycl/), high-performance computing, parallel algorithms
