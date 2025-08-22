@@ -1,6 +1,5 @@
 ## 🌙
 
-
 I am a Middleware Development Engineer at [@intel](https://github.com/intel) (see my work profile [@adamfidel](https://github.com/adamfidel)).
 
 Personal interests:
@@ -9,19 +8,4 @@ Personal interests:
 - KDE and Qt
 
 Professional interests:
-- C++, [SYCL](https://www.khronos.org/sycl/), high-performance computing, parallel algorithms
-
-<!--
-**ledif/ledif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++, GPU libraries, high-performance computing, parallel runtimes
